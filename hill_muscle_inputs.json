@@ -1,0 +1,9 @@
+{
+    "max_isometric_force": 1500,
+    "optimal_length": 0.3,
+    "max_velocity": 1.2,
+    "series_elasticity": 2000,
+    "parallel_elasticity": 1000,
+    "muscle_length": 0.32,
+    "muscle_velocity": 0.5
+}

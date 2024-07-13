@@ -1,0 +1,9 @@
+2024-07-11 20:34:38,471 - INFO - Logging initialized for hill_muscle_model
+2024-07-11 20:34:38,472 - INFO - Imported
+2024-07-11 20:34:38,472 - INFO - Logging initialized for simulate_muscle
+2024-07-11 20:34:38,472 - INFO - Run directly
+2024-07-11 20:34:38,473 - INFO - Generated muscle
+2024-07-11 20:34:38,478 - INFO - df:
+   Time  Muscle_Length  Muscle_Velocity  Total_Force
+0   0.0            0.3         0.156976  1303.780145
+2024-07-11 20:34:38,482 - INFO - Muscle simulation saved to C:\Users\coby6\Software\hill_muscle_model\data\muscle.csv
